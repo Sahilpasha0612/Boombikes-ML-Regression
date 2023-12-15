@@ -66,7 +66,7 @@ We have selected 10 features for our model, and following are the results.
 </tr>
 </table>
 
-<img src="images/test_actual_vs_predicted.png" alt="Test - Actual vs Predicted" width="50%">
+<img src="img/test_actual_vs_predicted.png"  width="50%">
 
 ---
 
